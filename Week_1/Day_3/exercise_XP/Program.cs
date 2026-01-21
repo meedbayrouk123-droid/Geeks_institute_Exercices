@@ -7,7 +7,7 @@ class Program
 	{
 		Exercise1.ConvertList();
 		Exercise2.cinemax();
-		Exercise4.cities("rabat","morocco");
+		Exercise4.cities("Agadir","Morocco");
 	    Exercise5.NumberGuess(19);
 	    Exercise6.personaliz();
 	    Exercise7.Temperature();

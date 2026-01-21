@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_1\\Exercices\\Exercices.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_1\\Exercices\\Exercices.csproj",
       "projectName": "Exercices",
-      "projectPath": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_1\\Exercices\\Exercices.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_1\\Exercices\\Exercices.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_1\\Exercices\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_1\\Exercices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

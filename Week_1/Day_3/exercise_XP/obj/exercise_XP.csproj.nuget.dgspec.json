@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj": {
+    "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj",
         "projectName": "exercise_XP",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_3\\exercise_XP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

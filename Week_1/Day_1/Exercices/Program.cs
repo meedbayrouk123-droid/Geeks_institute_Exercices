@@ -13,11 +13,11 @@ class Program
         Ex5.Countdown();
        
         //SayHello
-        Ex6.SayHello("Ali");
+        Ex6.SayHello("Rabiaa");
 
-        Ex6.SayHello("");
+        Ex6.SayHello("Aya");
 
-        Ex6.SayHello("Saad");
+        Ex6.SayHello("Samir");
 
         //Even Or Odd
         Ex7.EvenOrOdd();

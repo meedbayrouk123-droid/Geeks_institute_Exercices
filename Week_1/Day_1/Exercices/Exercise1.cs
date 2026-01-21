@@ -6,6 +6,6 @@ class Ex1
 {
     public static void Greeting()
     {
-        Console.WriteLine("Welcome to C# Programming!");
+        Console.WriteLine("Welcome to C#");
     }
 }

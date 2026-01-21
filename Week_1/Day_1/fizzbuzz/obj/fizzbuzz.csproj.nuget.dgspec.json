@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\fizzbuzz.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\fizzbuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\fizzbuzz.csproj": {
+    "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\fizzbuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\fizzbuzz.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\fizzbuzz.csproj",
         "projectName": "fizzbuzz",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\fizzbuzz.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\fizzbuzz.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Projects\\Geeks_InstituteProj\\week_1\\day_1\\fizzbuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
