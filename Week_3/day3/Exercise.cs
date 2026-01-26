@@ -1,0 +1,1 @@
+// our game is a story line that tells a complicated story and the player should understand, for the rules the player must interact with all possible itemes inside the loop between rooms and corridors
